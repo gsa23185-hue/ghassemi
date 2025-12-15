@@ -1,0 +1,7 @@
+{
+  "name": "AquaGuard - Water Quality Tracker",
+  "description": "Professional water quality data submission tool with real-time geolocation tracking and AI-powered safety analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
